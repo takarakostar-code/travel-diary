@@ -22,3 +22,12 @@
 ```bash
 ./vendor/bin/sail up -d
 ./vendor/bin/sail npm run dev
+
+## 動作確認動画の操作内容
+
+- 旅行日記の一覧表示
+- 新規投稿
+- 写真投稿
+- キーワード検索
+- 編集
+- 削除
